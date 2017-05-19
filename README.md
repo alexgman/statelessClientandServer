@@ -1,0 +1,2 @@
+# statelessClientandServer
+service fabric POC
